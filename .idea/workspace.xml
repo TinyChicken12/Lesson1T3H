@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc24cbe-4283-455e-9a2f-b9a0bdc2822e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/005.ThuocTinhHtml/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005.ThuocTinhHtml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/005.ThuocTinhHtml/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +22,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="274">
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/005.ThuocTinhHtml/index.html" />
+        <option value="$PROJECT_DIR$/005.ThuocTinhHtml/index2.html" />
       </list>
     </option>
   </component>
@@ -114,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557148338344</updated>
-      <workItem from="1557148339651" duration="1839000" />
+      <workItem from="1557148339651" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary="ver1">
       <created>1557148788269</created>
@@ -137,11 +151,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557149850241</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ver3">
+      <created>1557150230009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557150230009</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1839000" />
+    <option name="totallyTimeSpent" value="2669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -198,10 +219,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="274">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
