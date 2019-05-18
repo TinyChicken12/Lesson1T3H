@@ -2,8 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc24cbe-4283-455e-9a2f-b9a0bdc2822e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/006.pre/PreTag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007.Style/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008.Class/Excercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008.Class/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008.Class/id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009.formating/format.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010.comment/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/011.Color/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/external-css2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/filehtml2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/practise1/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/practise1/indexexternal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/practise1/indexinlineandinternal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/practise1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012.css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013.link/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case1/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case2/assets/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case3/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case3/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/case4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case1/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case2/assets/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case3/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case3/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014.images/practise/case4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case2/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case3/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case3/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015.javascript/case4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016.Table/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017.List/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018.Iframe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019.Form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019.Form/practise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020.Layout/html4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020.Layout/html5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundShorthand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundattachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/no-repeat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat-x.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat-y.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/00.3.Background/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/NhungCSS/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/NhungCSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/NhungCSS/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2_CSS/NhungCSS/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockinline/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,67 +85,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="170">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/006.pre/PreTag.html">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundattachment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/007.Style/index.html">
+        <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundShorthand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="35" column="103" selection-start-line="35" selection-start-column="103" selection-end-line="35" selection-end-column="103" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="-151">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -85,6 +179,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -95,12 +191,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/005.ThuocTinhHtml/index.html" />
-        <option value="$PROJECT_DIR$/005.ThuocTinhHtml/index2.html" />
-        <option value="$PROJECT_DIR$/.ignore" />
-        <option value="$PROJECT_DIR$/006.pre/PreTag.html" />
-        <option value="$PROJECT_DIR$/007.Style/index.html" />
+        <option value="$PROJECT_DIR$/012.css/practise1/assets/style.css" />
+        <option value="$PROJECT_DIR$/012.css/practise1/indexexternal.html" />
+        <option value="$PROJECT_DIR$/013.link/index.html" />
+        <option value="$PROJECT_DIR$/014.images/case2/index.html" />
+        <option value="$PROJECT_DIR$/014.images/case3/html/index.html" />
+        <option value="$PROJECT_DIR$/014.images/case4/index.html" />
+        <option value="$PROJECT_DIR$/014.images/practise/case1/index.html" />
+        <option value="$PROJECT_DIR$/014.images/practise/case2/index.html" />
+        <option value="$PROJECT_DIR$/014.images/practise/case3/html/index.html" />
+        <option value="$PROJECT_DIR$/014.images/practise/case4/index.html" />
+        <option value="$PROJECT_DIR$/014.images/case1/index.html" />
+        <option value="$PROJECT_DIR$/015.javascript/case1/script.js" />
+        <option value="$PROJECT_DIR$/015.javascript/case1/index.html" />
+        <option value="$PROJECT_DIR$/015.javascript/case2/script.js" />
+        <option value="$PROJECT_DIR$/015.javascript/case2/assets/js.js" />
+        <option value="$PROJECT_DIR$/015.javascript/case2/index.html" />
+        <option value="$PROJECT_DIR$/015.javascript/case3/html/index.html" />
+        <option value="$PROJECT_DIR$/015.javascript/case4/index.html" />
+        <option value="$PROJECT_DIR$/016.Table/index.html" />
+        <option value="$PROJECT_DIR$/017.List/index.html" />
+        <option value="$PROJECT_DIR$/018.Iframe/index.html" />
+        <option value="$PROJECT_DIR$/019.Form/index.html" />
+        <option value="$PROJECT_DIR$/019.Form/practise.html" />
+        <option value="$PROJECT_DIR$/020.Layout/html4.html" />
+        <option value="$PROJECT_DIR$/020.Layout/html5.html" />
+        <option value="$PROJECT_DIR$/blockinline/index.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/NhungCSS/index.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/NhungCSS/assets/style.css" />
+        <option value="$PROJECT_DIR$/M2_CSS/NhungCSS/index3.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/NhungCSS/index2.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index2.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index3.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index4.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index5.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/002.CSSSelector/index6.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/index.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/index.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/no-repeat.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat-x.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat-y.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition1.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition2.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition3.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition4.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition5.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition6.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition7.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundattachment.html" />
+        <option value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundShorthand.html" />
       </list>
     </option>
   </component>
@@ -110,37 +251,62 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Lesson1T3H" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson1T3H" type="462c0819:PsiDirectoryNode" />
+              <item name="LessonT3H" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonT3H" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Lesson1T3H" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson1T3H" type="462c0819:PsiDirectoryNode" />
-              <item name="007.Style" type="462c0819:PsiDirectoryNode" />
+              <item name="LessonT3H" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonT3H" type="462c0819:PsiDirectoryNode" />
+              <item name="M2_CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonT3H" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonT3H" type="462c0819:PsiDirectoryNode" />
+              <item name="M2_CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="00.3.Background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonT3H" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonT3H" type="462c0819:PsiDirectoryNode" />
+              <item name="M2_CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="00.3.Background" type="462c0819:PsiDirectoryNode" />
+              <item name="ImageAsBackground" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\T3H\LessonT3H\M2_CSS\00.3.Background\ImageAsBackground" />
+      <recent name="F:\T3H\LessonT3H\M2_CSS\00.3.Background\ImageAsBackground\images" />
+      <recent name="F:\T3H\Lesson1T3H\015.javascript\case3" />
+      <recent name="F:\T3H\Lesson1T3H\015.javascript\case2\assets\js" />
+      <recent name="F:\T3H\Lesson1T3H\014.images\practise\case3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,7 +332,12 @@
       <updated>1557148338344</updated>
       <workItem from="1557148339651" duration="3025000" />
       <workItem from="1557408153774" duration="2433000" />
-      <workItem from="1557486823858" duration="1740000" />
+      <workItem from="1557486823858" duration="9602000" />
+      <workItem from="1557731325379" duration="164000" />
+      <workItem from="1557746504565" duration="7813000" />
+      <workItem from="1557761554315" duration="1287000" />
+      <workItem from="1557803663080" duration="1294000" />
+      <workItem from="1558178171752" duration="7736000" />
     </task>
     <task id="LOCAL-00001" summary="ver1">
       <created>1557148788269</created>
@@ -210,17 +381,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557151326759</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ver3">
+      <created>1557489258179</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557489258179</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7198000" />
+    <option name="totallyTimeSpent" value="33354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14977308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,8 +411,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,57 +441,364 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/014.images/case2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index.html">
+    <entry file="file://$PROJECT_DIR$/014.images/case3/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005.ThuocTinhHtml/index2.html">
+    <entry file="file://$PROJECT_DIR$/014.images/case4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.ignore">
+    <entry file="file://$PROJECT_DIR$/014.images/practise/case1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014.images/practise/case2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case2/script.js" />
+    <entry file="file://$PROJECT_DIR$/015.javascript/case2/assets/js.js" />
+    <entry file="file://$PROJECT_DIR$/014.images/case1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case2/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case3/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case3/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014.images/practise/case3/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014.images/practise/case4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/006.pre/PreTag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/007.Style/index.html">
+    <entry file="file://$PROJECT_DIR$/016.Table/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="35" column="103" selection-start-line="35" selection-start-column="103" selection-end-line="35" selection-end-column="103" />
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017.List/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018.Iframe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="81" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019.Form/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019.Form/practise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/020.Layout/html4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/020.Layout/html5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockinline/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015.javascript/case4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/NhungCSS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/NhungCSS/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/NhungCSS/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/NhungCSS/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/002.CSSSelector/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/002.CSSSelector/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/002.CSSSelector/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/002.CSSSelector/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/002.CSSSelector/index5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/002.CSSSelector/index6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/no-repeat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat-x.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat-y.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/repeat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundpostition7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundattachment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_CSS/00.3.Background/ImageAsBackground/backgroundShorthand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
